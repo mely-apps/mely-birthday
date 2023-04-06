@@ -1,16 +1,21 @@
-# mely_birthday
+# [Code MeLy](https://www.facebook.com/code.mely)
 
-A new Flutter project.
+<p align="center">
+     <a href="https://www.facebook.com/code.mely"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Happy+birthday+Code+MeLy" alt="Typing SVG" /></a>
+ </p>
+ 
+![codeMely_Logo](https://user-images.githubusercontent.com/82562559/230283217-dde028a4-1e98-4c3c-870b-069957d4df04.png)
+# How to run?
+```
+1. Clone the repository:
+> git clone https://github.com/Tuanpluss02/MeLy-Birthday.git
 
-## Getting Started
+2. Change into the project directory:
+> cd MeLy-Birthday
 
-This project is a starting point for a Flutter application.
+3. Install dependencies:
+> flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Run the app
+> flutter run 
+```
