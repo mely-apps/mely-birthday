@@ -4,10 +4,6 @@
      <a href="https://www.facebook.com/code.mely"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Happy+birthday+Code+MeLy" alt="Typing SVG" /></a>
  </p>
  
- <p align="center">
-     <a href="https://mely-birthday.web.app/#/">https://mely-birthday.web.app/#/</a>
- </p>
- 
 ![codeMely_Logo](https://user-images.githubusercontent.com/82562559/230283217-dde028a4-1e98-4c3c-870b-069957d4df04.png)
 # How to run?
 ```
