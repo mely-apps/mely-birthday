@@ -8,7 +8,7 @@
 # How to run?
 ```
 1. Clone the repository:
-> git clone https://github.com/Tuanpluss02/MeLy-Birthday.git
+> git clone https://github.com/mely-apps/mely-birthday.git
 
 2. Change into the project directory:
 > cd MeLy-Birthday
