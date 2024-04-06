@@ -11,7 +11,7 @@
 > git clone https://github.com/mely-apps/mely-birthday.git
 
 2. Change into the project directory:
-> cd MeLy-Birthday
+> cd mely-birthday
 
 3. Install dependencies:
 > flutter pub get
